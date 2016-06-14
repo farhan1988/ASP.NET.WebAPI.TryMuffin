@@ -69,9 +69,9 @@
     <Compile Include="TestSuperHumans.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TryMuffin\TryMuffin.csproj">
+    <ProjectReference Include="..\TryMuffin\TryMuffin.API.csproj">
       <Project>{A8DF71E4-3912-496C-9800-8CC5E727DCE0}</Project>
-      <Name>TryMuffin</Name>
+      <Name>TryMuffin.API</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
